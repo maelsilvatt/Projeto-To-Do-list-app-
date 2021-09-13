@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Tasks</string>
+    <string name="menu_1">Share</string>
+    <string name="menu_2">About</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="menu_3">Search</string>
+    <string name="menu_4">Settings</string>
+    <string name="floatting_button_content_description">Add new task Button</string>
+    <string name="add_new_task_floating_button">Add new task floating button</string>
+    <string name="fab_new_task_done_content_description">fab new task done content description</string>
+    <string name="tv_newTaskTitle">Task title:</string>
+    <string name="til_hint_your_new_task_title_here">Task title</string>
+    <string name="til_hint_add_new_task_date">Date</string>
+    <string name="til_hint_hour">Hour</string>
+    <string name="mbtn_new_task">New task</string>
+    <string name="mbtn_cancel">Cancel</string>
+    <string name="tv_yourTasks">Your tasks</string>
+    <string name="tv_empty_state_message">It is so empty here... What about adding your first task?</string>
+</resources>
